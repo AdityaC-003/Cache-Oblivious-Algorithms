@@ -1,5 +1,5 @@
 # Cache-Oblivious-Algorithms
-This is a project on learning, designing and analysing cache oblivious algorithms for some data structures and algorithms.
+This is a project on learning, designing and analysing cache oblivious algorithms data structures and algorithms, and exploring their use in graph algorithms.
 
 References: 
 
